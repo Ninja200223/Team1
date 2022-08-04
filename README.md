@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <head>
-    <title>
-        Practice
-    </title>
+    Our Page
 </head>
 <body>
     <h1>
